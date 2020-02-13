@@ -1,0 +1,6 @@
+E:\Lukasz\Programming\CSharp\Chpt1_HelloWorld\Chpt1_HelloWorld\bin\Debug\Chpt1_HelloWorld.exe.config
+E:\Lukasz\Programming\CSharp\Chpt1_HelloWorld\Chpt1_HelloWorld\bin\Debug\Chpt1_HelloWorld.exe
+E:\Lukasz\Programming\CSharp\Chpt1_HelloWorld\Chpt1_HelloWorld\bin\Debug\Chpt1_HelloWorld.pdb
+E:\Lukasz\Programming\CSharp\Chpt1_HelloWorld\Chpt1_HelloWorld\obj\Debug\Chpt1_HelloWorld.csprojAssemblyReference.cache
+E:\Lukasz\Programming\CSharp\Chpt1_HelloWorld\Chpt1_HelloWorld\obj\Debug\Chpt1_HelloWorld.exe
+E:\Lukasz\Programming\CSharp\Chpt1_HelloWorld\Chpt1_HelloWorld\obj\Debug\Chpt1_HelloWorld.pdb
